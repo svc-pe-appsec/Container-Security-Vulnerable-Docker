@@ -1,4 +1,4 @@
-name: appsec_poc-Twistlock-Scan
+name: appsec_poc-twistlock-Scan
 
 on: 
   workflow_dispatch:
