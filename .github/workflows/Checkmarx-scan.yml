@@ -1,4 +1,4 @@
-name: cxone-docker-scan
+name: cxone-vulnerable-docker-scan
 
 on: 
   workflow_dispatch:
