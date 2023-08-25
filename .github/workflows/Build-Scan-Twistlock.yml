@@ -1,4 +1,4 @@
-name: appsec_poc-twistlock-scan
+name: appsec_poc-twistlock-scan-vuln-docker
 
 on: 
   workflow_dispatch:
